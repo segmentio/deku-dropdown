@@ -1,0 +1,19 @@
+.DropdownItem {
+  cursor: pointer;
+}
+
+.DropdownItem:hover {
+  background: rgba(92, 204, 92, 0.1);
+  color: var(--color-leaf);
+}
+
+.DropdownItem-inner {
+  margin: 5px 0;
+}
+
+.DropdownItem-link {
+  height: 100%;
+  width: 100%;
+  display: block;
+  padding: 5px 15px;
+}

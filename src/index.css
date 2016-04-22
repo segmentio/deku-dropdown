@@ -1,0 +1,14 @@
+.Dropdown {
+  position: absolute;
+  top: 37px;
+  right: -17px;
+  background: white;
+  border-radius: 5px;
+  padding: 5px 0px;
+  box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.2);
+  color: #665F57;
+  font-size: 14px;
+  font-family: var(--font-family-sans);
+  z-index: 1000;
+  white-space: nowrap;
+}
