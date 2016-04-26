@@ -1,3 +1,4 @@
+[![Circle CI](https://circleci.com/gh/segmentio/deku-dropdown.svg?style=svg&circle-token=9db0fc8292374af9d3fd1a63e3ea39bbd64b60cc)](https://circleci.com/gh/segmentio/deku-dropdown)
 [![Circle CI](https://circleci.com/gh/segmentio/deku-dropdown.svg?style=svg&circle-token=a09dbf5fd0394b564ff5182dcfcdf9437623c094)](https://circleci.com/gh/segmentio/deku-dropdown)
 
 # deku-dropdown
