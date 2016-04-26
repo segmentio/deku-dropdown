@@ -1,6 +1,6 @@
 {
   "name": "@segment/deku-dropdown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A dropdown component for Deku.",
   "main": "lib/index.js",
   "style": "lib/index.css",
